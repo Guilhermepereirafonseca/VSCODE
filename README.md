@@ -1,7 +1,7 @@
 # VSCODE
 _**Repositório focado em extensões e dicas para o Visual Studio Code.**_
 
-## EXTENSÔES PARA HTML5, CSS, JAVASCRIPT
+## EXTENSÕES PARA HTML5, CSS, JAVASCRIPT
 
 ### Prettier
 - Formata seu código automáticamente.
